@@ -8,7 +8,7 @@ class ProjectCard extends Component {
         <td>
           <figure>
             <img
-              src={`../../public/${item}.svg`}
+              src={`${item}.svg`}
               alt="stack-icon"
               className="p-1"
               style={{

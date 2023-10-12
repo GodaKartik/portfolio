@@ -8,7 +8,7 @@ class Blender extends Component {
     const imgs = ["sword", "headphones", "scythe", "donut", , "crime", "sheaffer"].map((img) => {
       return (
         <img
-          src={`../../public/${img}.png`}
+          src={`${img}.png`}
           alt=""
           style={{ height: "250px", borderRadius: "10px" }}
           className="shadow-lg hover:shadow-2xl hover:shadow-[#2B9194] m-2"
