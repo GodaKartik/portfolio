@@ -19,7 +19,7 @@ class Home extends Component {
         </p>
         <div className="flex bg-gradient-to-l from-[#2B9194] to-[#DCF6F6] mt-5 p-2">
           <div className="w-1/2 p-2 text-center my-auto">
-            <h1 className="text-[#333333] text-3xl text-bold handwriting">What I do?</h1>
+            <h1 className="text-[#333333] text-3xl text-bold handwriting">What I do →</h1>
           </div>
           <div className="w-1/2 whatdo">
             <ul>
@@ -47,7 +47,7 @@ class Home extends Component {
             <img src="pytorch.svg" alt="" style={{ height: "50px" }} className="inline mx-2" />
           </div>
           <div className="w-1/2 p-2 text-center my-auto">
-            <h1 className="text-[#333333] text-3xl text-bold handwriting">What I know?</h1>
+            <h1 className="text-[#333333] text-3xl text-bold handwriting">← What I know</h1>
           </div>
         </div>
       </div>

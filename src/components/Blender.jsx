@@ -23,9 +23,9 @@ class Blender extends Component {
           texturing and rendering. It provides me a way to relax without being unproductive. I might not be an expert
           but I'm passionate about improving everyday. Below is a collection of my work fully created using Blender. See
           more of my work on
-          <a href="https://instagram.com/justanotherblenderer">
+          {/* <a href="https://instagram.com/justanotherblenderer">
             <img src="instagram.svg" alt="instagram" style={{ height: "30px", display: "inline", marginLeft: "5px" }} />
-          </a>
+          </a> */}
         </p>
         <div className="flex flex-wrap justify-around">{imgs}</div>
       </div>
