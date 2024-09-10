@@ -25,6 +25,7 @@ class Home extends Component {
             <ul>
               <li className={bulletClass}>Backend Web Developemnt</li>
               <li className={bulletClass}>UI/UX Design</li>
+              <li className={bulletClass}>Data Analysis</li>
               <li className={bulletClass}>Artificial Intelligence & Machine Learning</li>
               <li className={bulletClass}>Android App Development</li>
               <li className={bulletClass}>Data Visualisation</li>
